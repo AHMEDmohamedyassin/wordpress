@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer componets {
+    .customContainer {
+        @apply px-20;
+    }
+}
